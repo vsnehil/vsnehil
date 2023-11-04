@@ -1,6 +1,6 @@
 ### Hi, My name is Snehil 👋
 
-[My Website](https://vsnehil/My-Portfolio-Website/](https://vsnehil.github.io/My-Portfolio-Website/)
+This site was built using [GitHub Pages](https://pages.github.com/).
 
 <!--
 **vsnehil/vsnehil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
